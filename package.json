@@ -1,0 +1,26 @@
+{
+    "name": "dark-for-night",
+    "displayName": "D.4.N",
+    "description": "Make theme design by mqp",
+    "version": "1.0.0",
+    "publisher": "mqpvnn",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mqpvnn/dark-for-night"
+    },
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark 4 Night",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark 4 Night-color-theme.json"
+            }
+        ]
+    }
+}
